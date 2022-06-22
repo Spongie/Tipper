@@ -1,0 +1,8 @@
+## Interface: 20503
+## Title: Tipper
+## Author: Spongie
+## Version: 1.0
+
+embeds.xml
+TipperGroup.lua
+main.lua
